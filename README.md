@@ -1,12 +1,13 @@
 # CTF Writeups
 
-Below, you can find links to all of my writeups for CTF competitions I've participated in. As of July 2024, I have completed writeups for **34 challenges** across
-**4 competitions**.
+Below, you can find links to all of my writeups for CTF competitions I've participated in. As of July 2024, I have completed writeups for **40 challenges** across
+**5 competitions**.
 
 ## List of Writeups
 
 Each writeup will also include specific information on the competition, including dates and my results.
 
+* [corCTF 2024](https://github.com/rstacks/corCTF2024-writeup)
 * [DownUnderCTF 2024](https://github.com/rstacks/DownUnderCTF2024-writeup)
 * [WaniCTF 2024](https://github.com/rstacks/WaniCTF2024-writeup)
 * [Season IV, US Cyber Open: Beginner's Game Room](https://github.com/rstacks/USCyberOpenSeasonIV-BeginnersGameRoom-writeup)
