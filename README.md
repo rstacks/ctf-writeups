@@ -1,6 +1,6 @@
 # CTF Writeups
 
-Below, you can find links to all of my writeups for CTF competitions I've participated in. As of July 2024, I have completed writeups for **53 challenges** across
+Below, you can find links to all of my writeups for CTF competitions I've participated in. As of August 2024, I have completed writeups for **53 challenges** across
 **6 competitions**.
 
 ## List of Writeups
